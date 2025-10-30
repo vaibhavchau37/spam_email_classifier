@@ -77,7 +77,7 @@ python spam_classifier_ui.py
 
 ## 📸 Screenshots
 
-(Screenshots will be added here)
+<img width="886" height="710" alt="image" src="https://github.com/user-attachments/assets/ad57b4f6-3aa4-4d9c-9a7b-53d0ec0de88e" />
 
 ## 🔮 Future Improvements
 
