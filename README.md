@@ -22,6 +22,7 @@ A machine learning application that classifies emails as spam or legitimate (ham
 - [License](#license)
 
 ## ✨ Features
+<img width="902" height="739" alt="Screenshot 2025-10-30 162528" src="https://github.com/user-attachments/assets/f516eb98-ebd3-42a8-9e26-537c3278c847" />
 
 - **Email Classification**: Analyzes email text to determine if it's spam or legitimate
 - **Modern UI**: Clean, intuitive interface with real-time feedback
